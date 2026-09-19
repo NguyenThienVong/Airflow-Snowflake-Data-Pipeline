@@ -55,6 +55,6 @@ Apache Airflow is used to schedule and manage the pipeline.
 
 ## 👨‍💻 Author
 
-Nguyen Thien Vong**
+Nguyen Thien Vong
 
 Aspiring Data Engineer
