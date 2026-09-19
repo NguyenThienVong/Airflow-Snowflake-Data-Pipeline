@@ -4,8 +4,6 @@ A beginner-friendly Data Engineering project that collects flight data from the 
 
 ## 🏗️ Data Architecture
 
-![Flight Operations Architecture](docs/flight-operations-architecture.png)
-
 🔗 [View Architecture Diagram on Lucidchart](https://lucid.app/lucidchart/4d0c0f98-b78c-49b6-8961-814832cd4d83/edit?viewport_loc=-59%2C24%2C1599%2C872%2C0_0&invitationId=inv_e3ff2ea8-60be-4278-ba0f-a3f51260fb87)
 <img width="1580" height="790" alt="Screenshot 2026-09-19 191041" src="https://github.com/user-attachments/assets/a82cd1e2-71fc-4d9b-83c7-68ea7d9aa49d" />
 
